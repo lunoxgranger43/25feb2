@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://mail.docs.rubeus.com.br/superjp.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/gilajp.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/gojekpot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/winstrike69.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/jagoan86.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/kaptenjackpot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/boosterjp.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/kerajaanslot.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/pakong86.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/viral88.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/clan4d.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/dinamit4d.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/elang212.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/gori77.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/viral4d.html/sitemap.xml
+Sitemap: https://mail.docs.rubeus.com.br/playground88.html/sitemap.xml
